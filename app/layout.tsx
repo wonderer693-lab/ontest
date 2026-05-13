@@ -26,6 +26,7 @@
 */
 import type { Metadata } from "next";
 import { getSite, getTool, getFeatures, getGuides, getCompetitors, getAudiences } from "@/lib/data";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const site = getSite();
@@ -203,6 +204,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   );
