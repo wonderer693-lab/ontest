@@ -91,6 +91,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://systemepolarbeam.vercel.app/solves/transaction-fees</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://systemepolarbeam.vercel.app/features/sales-funnels</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -121,7 +126,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://systemepolarbeam.vercel.app/features/memberships</loc>
+    <loc>https://systemepolarbeam.vercel.app/features/creator-store</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -186,7 +191,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://systemepolarbeam.vercel.app/guides/membership-site</loc>
+    <loc>https://systemepolarbeam.vercel.app/guides/creator-store-setup</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,7 +226,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://systemepolarbeam.vercel.app/glossary/order-bump</loc>
+    <loc>https://systemepolarbeam.vercel.app/glossary/creator-store</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

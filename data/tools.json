@@ -15,11 +15,12 @@
     "rating": 4.7,
     "reviewCount": 5082,
     "pricing": {
-      "starter": 27,
+      "starter": 17,
       "unlimited": 97,
       "saasPro": 47,
       "currency": "USD",
-      "cycle": "monthly"
+      "cycle": "monthly",
+      "note": "Free plan available — 2,000 contacts, 3 funnels, 1 course"
     },
     "features": [
       {
@@ -101,17 +102,17 @@
         "alternativeTools": ["ShareASale", "PartnerStack", "Impact"]
       },
       {
-        "slug": "memberships",
-        "name": "Membership Sites",
-        "shortDesc": "Tiered access, drip content, community areas",
-        "details": "Create tiered membership sites with different access levels. Drip content on a schedule, host community discussions, and charge recurring subscriptions. Everything runs inside Systeme.io.",
+        "slug": "creator-store",
+        "name": "Creator Store",
+        "shortDesc": "Single-page storefront linked from social bio",
+        "details": "Launch a mobile-optimized storefront that you can link from your TikTok, Instagram, or YouTube bio. Visitors can browse and buy your courses, digital products, and downloads without navigating a full website — like a Linktree that actually sells.",
         "benefits": [
-          "Tiered membership levels and pricing",
-          "Drip content delivery on autopilot",
-          "Built-in community discussion areas",
-          "Recurring billing for memberships"
+          "Mobile-optimized storefront in minutes",
+          "Sell courses, digital products, and downloads",
+          "Link from any social media bio",
+          "Replace Linktree, Stan Store, or Gumroad"
         ],
-        "alternativeTools": ["Kajabi", "MemberPress", "Circle"]
+        "alternativeTools": ["Linktree", "Stan Store", "Gumroad"]
       },
       {
         "slug": "webinars",
@@ -228,9 +229,9 @@
       "title": "Systeme.io for Course Creators",
       "metaDesc": "Course creators use Systeme.io to host, market, and sell online courses — replacing Kajabi, Teachable, and Mailchimp for a fraction of the cost.",
       "problem": "Paying $149-$399/month for Kajabi plus $79/month for Mailchimp plus $96/month for Calendly. Transaction fees eat another 5-10% of revenue. Too many tools, too much cost.",
-      "realReview": "\"I was paying $149 for Kajabi and $79 for Mailchimp every month. Systeme.io replaced both for $27/month. My course is hosted natively, my email sequences run on autopilot, and I save $200+ monthly.\" — Trustpilot review",
-      "solution": "Systeme.io replaces Kajabi, Teachable, and Mailchimp in one platform. Native course hosting with drip content, unlimited email marketing, and sales funnels — all for $27/month.",
-      "keyFeatures": ["online-courses", "email-marketing", "sales-funnels", "memberships", "webinars", "affiliate-management"]
+      "realReview": "\"I was paying $149 for Kajabi and $79 for Mailchimp every month. Systeme.io replaced both for $17/month. My course is hosted natively, my email sequences run on autopilot, and I save $200+ monthly.\" — Trustpilot review",
+      "solution": "Systeme.io replaces Kajabi, Teachable, and Mailchimp in one platform. Native course hosting with drip content, unlimited email marketing, and sales funnels — all for $17/month.",
+      "keyFeatures": ["online-courses", "email-marketing", "sales-funnels", "creator-store", "webinars", "affiliate-management"]
     },
     {
       "slug": "coaches-consultants",
@@ -238,8 +239,8 @@
       "title": "Systeme.io for Coaches & Consultants",
       "metaDesc": "Coaches and consultants use Systeme.io to book sessions, sell programs, and automate client communication — replacing Calendly, Zoom, and Mailchimp.",
       "problem": "Juggling Calendly ($96) + Zoom ($149) + Mailchimp ($79) = $324/month. Client onboarding is manual. No centralized system for bookings, payments, and follow-ups.",
-      "realReview": "\"I run my entire coaching business from Systeme.io. Booking, email sequences, course delivery, and payment collection — all in one place. My tech bill went from $324 to $27/month.\" — Capterra review",
-      "solution": "Built-in booking calendar replaces Calendly. Automated email sequences nurture clients. Course delivery for programs. All for $27/month.",
+      "realReview": "\"I run my entire coaching business from Systeme.io. Booking, email sequences, course delivery, and payment collection — all in one place. My tech bill went from $324 to $17/month.\" — Capterra review",
+      "solution": "Built-in booking calendar replaces Calendly. Automated email sequences nurture clients. Course delivery for programs. All for $17/month.",
       "keyFeatures": ["booking", "email-marketing", "online-courses", "sales-funnels", "marketing-automation", "crm"]
     },
     {
@@ -248,9 +249,9 @@
       "title": "Systeme.io for Bloggers",
       "metaDesc": "Bloggers use Systeme.io to monetize their audience with courses, memberships, and digital products — replacing WordPress + multiple plugins.",
       "problem": "Blogging with WordPress means paying for hosting ($10), email ($50), course platform ($99), and funnels ($127). Too many tools eating into ad and affiliate revenue.",
-      "realReview": "\"I used WordPress for my blog, Mailchimp for email, and Teachable for my course — $200+/month. Systeme.io does all three for $27. My blog looks better too.\" — Systeme.io testimonial",
+      "realReview": "\"I used WordPress for my blog, Mailchimp for email, and Teachable for my course — $200+/month. Systeme.io does all three for $17. My blog looks better too.\" — Systeme.io testimonial",
       "solution": "Built-in blog with SEO tools. Email marketing for subscribers. Course and membership hosting to monetize. All in one platform.",
-      "keyFeatures": ["website-builder", "email-marketing", "online-courses", "memberships", "sales-funnels", "affiliate-management"]
+      "keyFeatures": ["website-builder", "email-marketing", "online-courses", "creator-store", "sales-funnels", "affiliate-management"]
     },
     {
       "slug": "info-product-sellers",
@@ -258,7 +259,7 @@
       "title": "Systeme.io for Info-Product Sellers",
       "metaDesc": "Digital product sellers use Systeme.io to sell eBooks, templates, and downloads with built-in funnels, email, and affiliate management.",
       "problem": "ClickFunnels starts at $127/month just for funnels. Plus email ($79) plus affiliate platform ($99). Total: $300+/month just to sell digital products.",
-      "realReview": "\"I was paying $127 for ClickFunnels and $79 for Mailchimp. Systeme.io replaced both at $27/month with better results. My affiliate program is built in — no extra platform needed.\" — Medium review",
+      "realReview": "\"I was paying $127 for ClickFunnels and $79 for Mailchimp. Systeme.io replaced both at $17/month with better results. My affiliate program is built in — no extra platform needed.\" — Medium review",
       "solution": "Sales funnels, email marketing, and affiliate management — all included. Launch digital products with one platform, not four.",
       "keyFeatures": ["sales-funnels", "email-marketing", "affiliate-management", "website-builder", "online-courses", "marketing-automation"]
     },
@@ -279,8 +280,8 @@
       "metaDesc": "Affiliate marketers use Systeme.io to build landing pages, capture leads, and manage their own affiliate program — all without expensive tools.",
       "problem": "Affiliate marketers need landing pages ($127 ClickFunnels), email follow-ups ($79 Mailchimp), and an affiliate management platform ($99 ShareASale). Total: $300+/month.",
       "realReview": "\"I promote affiliate offers using Systeme.io funnels and email sequences. The built-in affiliate management also lets me run my own affiliate program for my digital products. Two income streams from one platform.\" — Blogging Lift review",
-      "solution": "Sales funnels for landing pages. Email automation for follow-ups. Built-in affiliate manager to run your own program. All $27/month.",
-      "keyFeatures": ["sales-funnels", "email-marketing", "affiliate-management", "website-builder", "marketing-automation", "memberships"]
+      "solution": "Sales funnels for landing pages. Email automation for follow-ups. Built-in affiliate manager to run your own program. All $17/month.",
+      "keyFeatures": ["sales-funnels", "email-marketing", "affiliate-management", "website-builder", "marketing-automation", "creator-store"]
     },
     {
       "slug": "digital-artists",
@@ -290,7 +291,7 @@
       "problem": "Selling art online means Gumroad for downloads (5% fee), Patreon for memberships ($39+), and Mailchimp for email ($50). Multiple platforms, multiple payouts.",
       "realReview": "\"I was on Gumroad, Patreon, and Mailchimp separately. Systeme.io replaced all three. My digital downloads, membership tiers, and email list are in one place. No more juggling.\" — Systeme.io testimonial",
       "solution": "Sell digital downloads, run membership tiers, and send email updates — all from one platform. No per-transaction fees.",
-      "keyFeatures": ["online-courses", "memberships", "email-marketing", "sales-funnels", "website-builder", "booking"]
+      "keyFeatures": ["online-courses", "creator-store", "email-marketing", "sales-funnels", "website-builder", "booking"]
     },
     {
       "slug": "freelancers",
@@ -318,8 +319,8 @@
       "title": "Systeme.io for Startups",
       "metaDesc": "Startups use Systeme.io to launch MVPs, build email lists, and sell early products — replacing expensive tools while bootstrapping.",
       "problem": "Bootstrapping founders can't afford $500+/month for marketing tools. But they need funnels, email, and customer management from day one.",
-      "realReview": "\"As a bootstrapped founder, I couldn't justify $300/month on marketing tools. Systeme.io gives me everything I need for $27/month. It's how I launched my first SaaS.\" — Medium review",
-      "solution": "Startup plan at $27/month includes sales funnels, email marketing, course hosting, and CRM. Free plan available for pre-revenue startups.",
+      "realReview": "\"As a bootstrapped founder, I couldn't justify $300/month on marketing tools. Systeme.io gives me everything I need for $17/month. It's how I launched my first SaaS.\" — Medium review",
+      "solution": "Startup plan at $17/month includes sales funnels, email marketing, course hosting, and CRM. Free plan available for pre-revenue startups.",
       "keyFeatures": ["sales-funnels", "email-marketing", "website-builder", "online-courses", "crm", "marketing-automation"]
     }
   ],
@@ -329,21 +330,21 @@
       "name": "Too Many Tools",
       "title": "How Systeme.io Replaces 5+ Tools",
       "metaDesc": "Stop paying for 5 separate subscriptions. Systeme.io replaces funnels, email, courses, affiliates, and more in one platform.",
-      "explanation": "The average creator uses 4-6 different tools costing $300-$500/month. Systeme.io replaces most of them with one $27-$97 subscription. Users report cutting their monthly software bill by 80% while simplifying their workflow."
+      "explanation": "The average creator uses 4-6 different tools costing $300-$500/month. Systeme.io replaces most of them with one $17-$97 subscription. Users report cutting their monthly software bill by 80% while simplifying their workflow."
     },
     {
       "slug": "expensive-courses",
       "name": "High Course Platform Costs",
       "title": "How Systeme.io Cuts Course Platform Costs by 80%",
-      "metaDesc": "Stop paying $149+/month for Kajabi. Systeme.io offers native course hosting with all features at $27/month.",
-      "explanation": "Kajabi costs $149-$399/month. Teachable takes 5-10% transaction fees on top of subscription costs. Systeme.io offers the same course hosting features — video, quizzes, drips, certificates — starting at $27/month with zero transaction fees."
+      "metaDesc": "Stop paying $149+/month for Kajabi. Systeme.io offers native course hosting with all features at $17/month.",
+      "explanation": "Kajabi costs $149-$399/month. Teachable takes 5-10% transaction fees on top of subscription costs. Systeme.io offers the same course hosting features — video, quizzes, drips, certificates — starting at $17/month with zero transaction fees."
     },
     {
       "slug": "funnel-cost",
       "name": "Funnel Builders Too Pricey",
       "title": "How Systeme.io Delivers Funnels at 80% Less",
       "metaDesc": "Get ClickFunnels-quality sales funnels without the $127/month price tag. Systeme.io includes funnels on every plan.",
-      "explanation": "ClickFunnels starts at $127/month. Leadpages at $49/month. Systeme.io includes a full-featured funnel builder with 50+ templates on all plans starting at $27/month — and even the free plan includes 3 funnels."
+      "explanation": "ClickFunnels starts at $127/month. Leadpages at $49/month. Systeme.io includes a full-featured funnel builder with 50+ templates on all plans starting at $17/month — and even the free plan includes 3 funnels."
     },
     {
       "slug": "affiliate-setup",
@@ -357,7 +358,7 @@
       "name": "Email Marketing at Scale",
       "title": "How Systeme.io Keeps Email Marketing Affordable",
       "metaDesc": "Never outgrow your email platform. Systeme.io offers unlimited emails on all paid plans — no per-contact pricing.",
-      "explanation": "Mailchimp and ConvertKit get expensive as your list grows — $50-$200+/month for 10K contacts. Systeme.io charges a flat $27-$97 regardless of list size, with unlimited email sends on all paid plans."
+      "explanation": "Mailchimp and ConvertKit get expensive as your list grows — $50-$200+/month for 10K contacts. Systeme.io charges a flat $17-$97 regardless of list size, with unlimited email sends on all paid plans."
     },
     {
       "slug": "learning-curve",
@@ -365,6 +366,13 @@
       "title": "How Systeme.io Makes Marketing Easy for Beginners",
       "metaDesc": "No technical skills needed. Systeme.io is designed for non-technical entrepreneurs to launch and grow their business.",
       "explanation": "Most marketing platforms assume you're technical or have a team. Systeme.io is built for beginners — intuitive drag-and-drop editors, pre-built templates, and a clean interface. Users report being able to launch their first funnel or course within hours, not days."
+    },
+    {
+      "slug": "transaction-fees",
+      "name": "Hidden Transaction Fees",
+      "title": "How Systeme.io Eliminates Transaction Fees",
+      "metaDesc": "Stop losing 5-10% of revenue to platform transaction fees. Systeme.io charges 0% transaction fees on every plan.",
+      "explanation": "Teachable takes 5-10% of every sale. Kajabi charges 0% but costs $149+/month. Gumroad takes 5% + $0.30 per transaction. Systeme.io is the only all-in-one platform that charges zero transaction fees on every plan — including the free plan. You keep every dollar you earn, minus only Stripe or PayPal processing fees."
     }
   ],
   "guides": [
@@ -441,22 +449,22 @@
       "relatedFeatures": ["affiliate-management", "sales-funnels", "email-marketing"]
     },
     {
-      "slug": "membership-site",
-      "name": "Creating a Membership Site",
-      "title": "How to Create a Membership Site in Systeme.io",
-      "metaDesc": "Build and launch a membership site in Systeme.io with tiered access, drip content, and recurring billing.",
-      "intro": "Membership sites generate predictable recurring revenue. Systeme.io's membership features let you create tiered access levels, drip content, and charge recurring subscriptions.",
+      "slug": "creator-store-setup",
+      "name": "Setting Up Your Creator Store",
+      "title": "How to Set Up a Creator Store in Systeme.io",
+      "metaDesc": "Launch a mobile-optimized creator store in Systeme.io to sell products directly from your social media bio.",
+      "intro": "A creator store is a single-page storefront you can link from TikTok, Instagram, or YouTube. Systeme.io's creator store lets you sell courses, digital products, and downloads — no website needed.",
       "steps": [
-        "Create a new membership product in the dashboard",
-        "Set up your pricing tiers (monthly, yearly, lifetime)",
-        "Upload your content organized by access level",
-        "Set up drip schedule for content delivery",
-        "Create a sales funnel for your membership",
-        "Add community features to engage members"
+        "Go to the Creator Store section in your dashboard",
+        "Choose products to feature (courses, digital downloads, services)",
+        "Customize the store design and branding",
+        "Set up payment with Stripe or PayPal",
+        "Copy your store link and add to your social media bio",
+        "Track sales and visitors from the analytics dashboard"
       ],
-      "estimatedTime": "30-45 minutes",
-      "difficulty": "Intermediate",
-      "relatedFeatures": ["memberships", "online-courses", "sales-funnels"]
+      "estimatedTime": "15-20 minutes",
+      "difficulty": "Beginner",
+      "relatedFeatures": ["creator-store", "online-courses", "sales-funnels"]
     },
     {
       "slug": "webinar-launch",
@@ -509,10 +517,10 @@
       "seeAlso": ["sales-funnel", "order-bump"]
     },
     {
-      "slug": "order-bump",
-      "term": "Order Bump",
-      "definition": "A low-cost add-on offered at checkout. Systeme.io's order bump feature increases average order value without extra marketing effort.",
-      "seeAlso": ["sales-funnel", "upsell"]
+      "slug": "creator-store",
+      "term": "Creator Store",
+      "definition": "A single-page mobile-optimized storefront you can link from your social media bio. Systeme.io's creator store lets you sell courses, digital products, and downloads — replacing Linktree, Stan Store, or Gumroad.",
+      "seeAlso": ["online-courses", "sales-funnel"]
     },
     {
       "slug": "evergreen-webinar",
