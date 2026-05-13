@@ -39,6 +39,9 @@ export const metadata: Metadata = {
   title: { default: site.name, template: `%s - ${site.name}` },
   description: site.tagline,
   metadataBase: new URL(site.url),
+  verification: {
+    google: "0maDOZkJU089lpJ4w6gotm16D2p2zfaSywT7ed3VkDw",
+  },
   openGraph: {
     title: site.name,
     description: site.tagline,
