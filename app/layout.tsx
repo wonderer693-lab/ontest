@@ -27,6 +27,7 @@
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/next";
 import { getSite, getTool, getFeatures, getGuides, getCompetitors, getAudiences } from "@/lib/data";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const site = getSite();
